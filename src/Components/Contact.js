@@ -12,10 +12,10 @@ const Contact = () => {
           <strong>Email:</strong> <a href="mailto:youremail@example.com">youremail@example.com</a>
         </li>
         <li>
-          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vimall03/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivamvikash/" target="_blank" rel="noopener noreferrer">Linkedin</a>
         </li>
         <li>
-          <strong>GitHub:</strong> <a href="https://github.com/vimall03" target="_blank" rel="noopener noreferrer">github</a>
+          <strong>GitHub:</strong> <a href="https://github.com/ShivamVikash" target="_blank" rel="noopener noreferrer">github</a>
         </li>
       </ul>
       <p>

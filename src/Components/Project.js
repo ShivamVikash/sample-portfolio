@@ -5,16 +5,16 @@ const Projects = () => {
     {
       title: "Project 1",
       description: "A brief description of project 1.",
-      technologies: ["React", "Node.js", "MongoDB"],
-      githubLink: "https://github.com/yourusername/project1",
-      liveDemoLink: "https://project1demo.com",
+      technologies: ["HTML", "CSS"],
+      githubLink: "https://github.com/ShivamVikash/MERN1.git",
+      liveDemoLink: "https://shivamvikash.github.io/MERN1/",
     },
     {
       title: "Project 2",
       description: "A brief description of project 2.",
-      technologies: ["Angular", "Express.js", "MySQL"],
-      githubLink: "https://github.com/yourusername/project2",
-      liveDemoLink: "https://project2demo.com",
+      technologies: ["BS", "JavaSript"],
+      githubLink: "https://github.com/ShivamVikash/MERN2.git",
+      liveDemoLink: "https://shivamvikash.github.io/MERN2/",
     },
     // Add more projects as needed
   ];
